@@ -1,0 +1,11 @@
+.van-field__control {
+  font-size: 16px;
+}
+
+.van-swipe-cell__right {
+  font-size: 0;
+}
+
+.van-field__control:read-only {
+  text-align: center;
+}
